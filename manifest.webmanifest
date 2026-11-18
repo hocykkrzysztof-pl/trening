@@ -1,0 +1,17 @@
+{
+  "name": "Trening w domu",
+  "short_name": "Trening",
+  "description": "Trening siłowy z masą ciała i marsz na bieżni - progresja, timer, historia.",
+  "lang": "pl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E9EEF0",
+  "theme_color": "#0E6B5C",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
